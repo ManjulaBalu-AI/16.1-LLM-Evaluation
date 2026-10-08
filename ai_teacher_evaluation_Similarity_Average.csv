@@ -1,0 +1,6 @@
+﻿Metric,Average Score
+BERT,0.899
+ROUGE-1,0.33
+ROUGE-2,0.13
+ROUGE-L,0.277
+METEOR,0.257
